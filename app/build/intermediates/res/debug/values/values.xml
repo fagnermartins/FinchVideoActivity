@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Projeto%20Asus/AndroidStudioProjects/FinchVideoActivity/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="blue">#0000bb</color>
+    <color name="medium_gray">#444444</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/C:/Users/Projeto%20Asus/AndroidStudioProjects/FinchVideoActivity/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="insert_button_size">60px</dimen>
+    <dimen name="insert_size">60px</dimen>
+    <dimen name="reload_size">60px</dimen>
+    <dimen name="text_edit_height">40px</dimen>
+    <dimen name="thumb_size">60px</dimen>
+    <!-- From: file:/C:/Users/Projeto%20Asus/AndroidStudioProjects/FinchVideoActivity/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">FinchVideo</string>
+    <string name="description">Description</string>
+    <string name="finch_video_app_name">Finch Video</string>
+    <string name="finch_video_update_content">Update Content</string>
+    <string name="media_id">Media ID</string>
+    <string name="simple_insert_text">Insert</string>
+    <string name="title">Title</string>
+</resources>
